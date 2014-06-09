@@ -5,6 +5,9 @@ description: "Abhijit Gaikwad, Software Engineer, Actuate"
 baseurl: ""
 url: "http://gabhi.com"
 
+username:
+    twitter:   gaikwad_abhijit
+    github:  gabhi
 # Build settings
 markdown: kramdown
 permalink: pretty
