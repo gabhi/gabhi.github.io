@@ -1,13 +1,11 @@
 ---
 published: true
----
-
----
 layout: post
-title:  "Sample Post!"
-date:   2014-06-09 16:07:47
+title: "Sample Post!"
+date: {}
 categories: jekyll update
 ---
+
 
 ## A New Post
 
